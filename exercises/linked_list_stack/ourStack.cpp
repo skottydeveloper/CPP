@@ -40,6 +40,7 @@ int OurStack::top() {
   if (this->head != nullptr) {
       return head->data;
   }
+  return - 1;
 }
 
 /* Add an element to the top of the stack. */
