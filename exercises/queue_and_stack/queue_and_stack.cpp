@@ -17,7 +17,6 @@ void showQueue(queue<int> q) { // show all elements in a queue
 void showStack(stack<int> s) { // show all elements in a stack
 	cout << "All elements in Stack:";
     
-	// your code here
 	while (!s.empty()) {
     	cout << " " << s.top();
 		s.pop();
