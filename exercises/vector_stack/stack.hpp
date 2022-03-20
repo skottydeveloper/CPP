@@ -16,9 +16,7 @@ class Stack {
 		
 		/* Add an element to the top of stack (i.e., back of vector). */
 		void push (T t) {
-			for (int i = 0; i <= 4; i++) {
-				data.push_back(i);
-			}
+			data.push_back(t); 
 		}
 		
 		/* Remove an element from the top of stack (i.e., back of vector). */

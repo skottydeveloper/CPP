@@ -3,7 +3,7 @@
 
 int main() {
 	Stack<int> s;               // Create a stack.
-	const int add_num = 2;     // The number of elements to be added to stack.
+	const int add_num = 10;     // The number of elements to be added to stack.
 	const int remove_num = 5;   // The number of elements to be removed from stack.
 
 	/* Add things to stack. */
