@@ -4,3 +4,18 @@ This repository is a portfolio of code for the C++ programming language. It cons
 
 ## Exercises
 Consists of exercises that demonstrate my knowledge in each feature of the C++ programming language. For example, one project will demonstrate the application of knowledge in pointers and structures, while another will demonstrate the application of knowledge in switch statements.
+
+## Notable Projects
+### Templated Binary Search Tree
+#### Summary
+This code project is a C++ implementation of a Binary Search Tree (BST) data structure. The BST class has several public methods for inserting a new node, finding a node with a given key, deleting a node, rotating the tree right, getting the size of the tree, getting the root value, and printing the tree. The class also has several private helper methods, including fixing the height of nodes in the tree, deleting a subtree, finding the minimum node in a subtree, and printing a subtree. The implementation is done using templates to allow for different types of data to be stored in the tree. Overall, this code project provides a basic implementation of a BST data structure that can be used to store and manipulate data in a tree-like structure.
+
+#### Link
+https://github.com/skottydeveloper/CPP/tree/main/projects/templated-binary-search-tree
+
+### Templated Singly Linked List
+#### Summary
+This is a C++ implementation of a singly linked list data structure. It includes member functions for adding and removing elements at the front or at a specified position of the list, returning the first element, printing out the list, checking if the list is empty or getting the size of the list. It also includes functions for sorting and merging two sorted lists. The implementation uses a Node class that contains a data member variable and a pointer to the next Node object, as well as a Forward_list class that holds a size member variable and a head pointer that points to the first Node in the list.
+
+#### Link
+https://github.com/skottydeveloper/CPP/tree/main/projects/templated-singly-linked-list
