@@ -7,9 +7,29 @@ $tree Assignment-2
 
 ├── Assignment-2.h
 
+├── CMakeLists.txt
+
 ├── Test2.cpp
 
-├── CMakeLists.txt
+└── testcase
+
+    ├── bc
+    
+    │   ├── test1.ll
+    
+    │   └── test2.ll
+    
+    ├── dot
+    
+    │   ├── icfg_test1.dot
+    
+    │   └── icfg_test2.dot
+    
+    └── src
+    
+        ├── test1.c
+        
+        └── test2.c 
 
 ## Instructions
 1. Install the "Docker", "Remote Containers" and "C/C++" extensions in VSCode.
